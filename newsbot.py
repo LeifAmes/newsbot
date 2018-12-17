@@ -2,7 +2,6 @@
 # Written by Leif Ames  <leif@leifames.com>
 
 import socket, ssl
-import feedparser
 import datetime, time
 import feedparser
 from HTMLParser import HTMLParser
